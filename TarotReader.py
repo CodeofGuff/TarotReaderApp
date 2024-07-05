@@ -4,7 +4,7 @@
 
 
 # from the CCodeCademy IE, 
-# I added the random num gens to come up wiuth adifferen tpairn geach time. 
+# I added the random num gens to come up wiuth a different pair geach time. 
 # need to add:
 # - Basic definitons of each card to give a 'reading' when 3 cards are drawn
 # - Advanced Definitions of each card when paired/combined with other cards (why does it matter if these cards are matched)
